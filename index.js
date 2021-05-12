@@ -14,7 +14,7 @@ function drawImage() {
 	ctx.drawImage(image, 0, 0, canvas.width, canvas.height)
 	ctx.font = '20px monotype corsiva'
 	ctx.fillStyle = '#716658'
-	ctx.fillText(nameInput.value,230,430)
+	ctx.fillText(nameInput.value,219,430)
 }
 
 nameInput.addEventListener('input', function () {
