@@ -4,7 +4,7 @@ const nameInput = document.getElementById('name')
 const downloadBtn = document.getElementById('download-btn')
 
 const image = new Image()
-image.src = 'Alrweta.jpg'
+image.src = '0D7DD0F1-5ED4-40F5-B441-1F559B36CD35.png'
 image.onload = function () {
 	drawImage()
 }
